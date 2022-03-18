@@ -7,7 +7,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:number_trivia/counter/counter.dart';
+import 'package:number_trivia/features/counter/view/counter_page.dart';
+
 import 'package:number_trivia/l10n/l10n.dart';
 
 class App extends StatelessWidget {
