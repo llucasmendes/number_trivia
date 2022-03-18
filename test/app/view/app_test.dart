@@ -7,7 +7,7 @@
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:number_trivia/app/app.dart';
-import 'package:number_trivia/counter/counter.dart';
+import 'package:number_trivia/features/counter/view/counter_page.dart';
 
 void main() {
   group('App', () {

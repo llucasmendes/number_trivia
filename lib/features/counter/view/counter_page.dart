@@ -7,7 +7,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:number_trivia/counter/counter.dart';
+import 'package:number_trivia/features/counter/cubit/counter_cubit.dart';
+
 import 'package:number_trivia/l10n/l10n.dart';
 
 class CounterPage extends StatelessWidget {

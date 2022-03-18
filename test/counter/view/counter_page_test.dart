@@ -10,8 +10,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
-
-import 'package:number_trivia/counter/counter.dart';
+import 'package:number_trivia/features/counter/cubit/counter_cubit.dart';
+import 'package:number_trivia/features/counter/view/counter_page.dart';
 
 import '../../helpers/helpers.dart';
 
